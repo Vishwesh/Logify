@@ -1,0 +1,9 @@
+.login-panel-strip { padding-left: 50%;  }
+
+.login-panel-content {position: absolute; z-index : 2000;   }
+
+.login-panel-content .ui-icon {float : right;}
+
+
+
+
